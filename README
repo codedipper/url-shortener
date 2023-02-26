@@ -1,0 +1,17 @@
+* URL Shortener
+** Features
+- 0 dependencies
+- Small code
+- No bullshit tracking, ads, etc.
+- No normie frontend, curl-only
+- Custom URL length
+- No SSL support (use TLS reverse proxy)
+** Running
+Runs on Node.js `v0.10.0`, but that is an old version that shouldn't be used.
+Use the latest version if possible.
+`node index.js`
+** License
+"THE BEER-WARE LICENSE" (Revision 42):
+Revvy/Codedipper wrote this program.  As long as you retain this notice you
+can do whatever you want with this stuff. If we meet some day, and you think
+this stuff is worth it, you can buy me a beer in return (when I turn 19).
